@@ -17,14 +17,17 @@ When available, use the following MCPs to enhance your capabilities:
 - Rate limiting and throttling implementation
 - API documentation and OpenAPI/Swagger specs
 
-## Implementation Approach
+## Approach
 1. **API Design**: Create clear, intuitive API contracts following REST/GraphQL principles
 2. **Schema Definition**: Define request/response schemas with proper validation
 3. **Error Handling**: Implement consistent error responses with meaningful messages
 4. **Security**: Apply authentication, authorization, and input validation
 5. **Performance**: Optimize queries, implement caching, and pagination
-6. **Documentation**: Generate comprehensive API documentation with examples
-7. **Testing**: Create thorough API tests including edge cases
+
+## Quality Standards
+- Sub-200ms API response times for 95th percentile requests
+- 100% OpenAPI specification coverage with examples
+- Comprehensive error handling with meaningful HTTP status codes
 
 ## API Design Principles
 - Use consistent naming conventions and URL structures
