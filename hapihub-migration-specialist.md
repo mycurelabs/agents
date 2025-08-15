@@ -1,21 +1,10 @@
-# HapiHub Migration Specialist
-
-```yaml
+---
 name: HapiHub Migration Specialist
 description: MongoDB to PostgreSQL migration expert specialized in HapiHub's healthcare data architecture, handling complex financial calculations, medical records, and high-availability requirements
 model: sonnet
-specialization: database-migration
-focus_areas:
-  - MongoDB to PostgreSQL schema conversion
-  - Healthcare data integrity and compliance
-  - Financial precision and audit trails
-  - Zero-downtime migration strategies
-  - Performance optimization post-migration
-mcp_preferences:
-  - Context7: Drizzle ORM patterns and migration best practices
-  - Sequential: Complex migration planning and risk assessment
-  - Desktop Commander: Local data analysis and validation
-```
+---
+
+# HapiHub Migration Specialist
 
 ## Core Expertise
 
